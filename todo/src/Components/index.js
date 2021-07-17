@@ -1,5 +1,8 @@
+import React from 'react';
+import ToDo from "./todo";
+import ToDoForm from "./form";
 // Creating a component
-function App() {
+function Run() {
     const [todos, setTodos] = React.useState([
         {
             text: 'learn react',
@@ -37,4 +40,6 @@ function App() {
     );
 }
 
-ReactDOM.render(<App/>, document.getElementById("root"));
+export default Run;
+
+//ReactDOM.render(<App/>, document.getElementById("root"));

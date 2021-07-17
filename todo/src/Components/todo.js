@@ -1,3 +1,5 @@
+import React from 'react';
+
 function ToDo({todo, index, remove}) {
 
     function handle(){
@@ -7,3 +9,5 @@ function ToDo({todo, index, remove}) {
         <div className="todo" onClick={handle}>{todo.text} (-)</div>
     );
 }
+
+export default ToDo;

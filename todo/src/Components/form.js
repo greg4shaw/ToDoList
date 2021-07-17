@@ -1,3 +1,4 @@
+import React from 'react';
 //Adding functionality with items specific to the form
 function ToDoForm({addTodo}) {
     
@@ -22,3 +23,5 @@ function ToDoForm({addTodo}) {
         </form>
     );
 }
+
+export default ToDoForm;
