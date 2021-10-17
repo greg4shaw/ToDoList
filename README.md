@@ -1,7 +1,7 @@
-<h1><img src="Todo.jpg" alt="ToDo List Project" width="50%"></h1>
+<h1><img src="./src/Todo.jpg" alt="ToDo List Project" width="50%"></h1>
 
 
-# Eye Exercise Project
+# ToDo List Project Project
 > MIT xPRO - Week 14
 
 This project was part of the course work required in the MIT xPRO Full-Stack development course taken.
