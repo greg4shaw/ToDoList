@@ -95,7 +95,7 @@ test('ToDo', () => {
 //   expect(getByPlaceholderText('Add ToDo ...')).not.toBeNull()
 // Better syntax
   getByText('ToDo List');
-  getByPlaceholderText('Add ToDo ...');
+  getByPlaceholderText('Add ToDo ..');
 
 });
 
