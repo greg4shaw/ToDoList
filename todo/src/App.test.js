@@ -99,4 +99,5 @@ test('ToDo', () => {
 
 });
 
-// "test": "react-scripts test"
+// "test": "react-scripts test
+    //"test": "echo \"Error: no test specified\" && exit 1","
